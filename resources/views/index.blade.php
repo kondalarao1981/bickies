@@ -587,7 +587,7 @@
                             <div class="product-box product-box-bg wow fadeInUp">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/1.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/1.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -622,7 +622,7 @@
                             <div class="product-box product-box-bg wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/2.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/2.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -652,7 +652,7 @@
                             <div class="product-box product-box-bg wow fadeInUp">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/3.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/3.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -686,7 +686,7 @@
                             <div class="product-box product-box-bg wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/4.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/4.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -722,7 +722,7 @@
                             <div class="product-box product-box-bg wow fadeInUp">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/5.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/5.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -756,7 +756,7 @@
                             <div class="product-box product-box-bg wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/6.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/6.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -792,7 +792,7 @@
                             <div class="product-box product-box-bg wow fadeInUp">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/7.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/7.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -826,7 +826,7 @@
                             <div class="product-box product-box-bg wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/8.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/8.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -862,7 +862,7 @@
                             <div class="product-box product-box-bg wow fadeInUp">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/9.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/9.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -894,7 +894,7 @@
                             <div class="product-box product-box-bg wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/10.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/10.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -930,7 +930,7 @@
                             <div class="product-box product-box-bg wow fadeInUp">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/1.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/1.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -964,7 +964,7 @@
                             <div class="product-box product-box-bg wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/2.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/2.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1010,7 +1010,7 @@
                         <div>
                             <div class="product-box-2 wow fadeIn">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/1.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/1.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1024,7 +1024,7 @@
 
                             <div class="product-box-2 wow fadeIn" data-wow-delay="0.1s">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/2.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/2.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1038,7 +1038,7 @@
 
                             <div class="product-box-2 wow fadeIn" data-wow-delay="0.2s">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/3.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/3.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1054,7 +1054,7 @@
                         <div>
                             <div class="product-box-2 wow fadeIn">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/4.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/4.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1068,7 +1068,7 @@
 
                             <div class="product-box-2 wow fadeIn" data-wow-delay="0.1s">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/5.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/5.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1082,7 +1082,7 @@
 
                             <div class="product-box-2 wow fadeIn" data-wow-delay="0.2s">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/6.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/6.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1098,7 +1098,7 @@
                         <div>
                             <div class="product-box-2 wow fadeIn">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/1.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/7.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1112,7 +1112,7 @@
 
                             <div class="product-box-2 wow fadeIn" data-wow-delay="0.1s">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/2.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/8.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1126,7 +1126,7 @@
 
                             <div class="product-box-2 wow fadeIn" data-wow-delay="0.2s">
                                 <a href="product-left-thumbnail.html" class="product-image">
-                                    <img src="{{ asset('assets/images/cake/pro/3.jpg')}}" class="img-fluid blur-up lazyload"
+                                    <img src="{{ asset('assets/images/cake/pro/9.jpeg')}}" class="img-fluid blur-up lazyload"
                                         alt="">
                                 </a>
 
@@ -1154,7 +1154,7 @@
                             <div class="product-box product-box-bg wow fadeIn">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/1.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/1.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1187,7 +1187,7 @@
                             <div class="product-box product-box-bg wow fadeIn" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/2.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/2.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1222,7 +1222,7 @@
                             <div class="product-box product-box-bg wow fadeIn">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/3.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/3.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1255,7 +1255,7 @@
                             <div class="product-box product-box-bg wow fadeIn" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/4.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/4.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1290,7 +1290,7 @@
                             <div class="product-box product-box-bg wow fadeIn">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/5.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/5.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1323,7 +1323,7 @@
                             <div class="product-box product-box-bg wow fadeIn" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/6.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/6.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1358,7 +1358,7 @@
                             <div class="product-box product-box-bg wow fadeIn">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/7.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/7.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1391,7 +1391,7 @@
                             <div class="product-box product-box-bg wow fadeIn" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/8.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/8.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1426,7 +1426,7 @@
                             <div class="product-box product-box-bg wow fadeIn">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/9.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/9.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1457,7 +1457,7 @@
                             <div class="product-box product-box-bg wow fadeIn" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/10.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/10.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1492,7 +1492,7 @@
                             <div class="product-box product-box-bg wow fadeIn">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/5.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/5.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1525,7 +1525,7 @@
                             <div class="product-box product-box-bg wow fadeIn" data-wow-delay="0.1s">
                                 <div class="product-image">
                                     <a href="product-left-thumbnail.html">
-                                        <img src="{{ asset('assets/images/cake/product/6.png')}}"
+                                        <img src="{{ asset('assets/images/cake/product/6.jpeg')}}"
                                             class="img-fluid blur-up lazyload" alt="">
                                     </a>
                                     <ul class="product-option">
@@ -1790,22 +1790,22 @@
                         <div class="footer-contain">
                             <ul>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Vegetables & Fruit</a>
+                                    <a href="#" class="text-content">All Cookies</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Beverages</a>
+                                    <a href="#" class="text-content">Shop By Flavour</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Meats & Seafood</a>
+                                    <a href="#" class="text-content">Chocolate Cookies</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Frozen Foods</a>
+                                    <a href="#" class="text-content">Gourmet Cookies</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Biscuits & Snacks</a>
+                                    <a href="#" class="text-content">Healthy Cookies</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Grocery & Staples</a>
+                                    <a href="#" class="text-content">Combo Cookies</a>
                                 </li>
                             </ul>
                         </div>
@@ -1819,19 +1819,19 @@
                         <div class="footer-contain">
                             <ul>
                                 <li>
-                                    <a href="index.html" class="text-content">Home</a>
+                                    <a href="#" class="text-content">Home</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Shop</a>
+                                    <a href="#" class="text-content">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="about-us.html" class="text-content">About Us</a>
+                                    <a href="#" class="text-content">Cookies</a>
                                 </li>
                                 <li>
-                                    <a href="blog-list.html" class="text-content">Blog</a>
+                                    <a href="#" class="text-content">Services</a>
                                 </li>
                                 <li>
-                                    <a href="contact-us.html" class="text-content">Contact Us</a>
+                                    <a href="#" class="text-content">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -1843,24 +1843,15 @@
                         </div>
 
                         <div class="footer-contain">
-                            <ul>
+                            <ul>                                
                                 <li>
-                                    <a href="order-success.html" class="text-content">Your Order</a>
+                                    <a href="#" class="text-content">Your Account</a>
                                 </li>
                                 <li>
-                                    <a href="user-dashboard.html" class="text-content">Your Account</a>
+                                    <a href="#" class="text-content">Search</a>
                                 </li>
                                 <li>
-                                    <a href="order-tracking.html" class="text-content">Track Order</a>
-                                </li>
-                                <li>
-                                    <a href="wishlist.html" class="text-content">Your Wishlist</a>
-                                </li>
-                                <li>
-                                    <a href="search.html" class="text-content">Search</a>
-                                </li>
-                                <li>
-                                    <a href="faq.html" class="text-content">FAQ</a>
+                                    <a href="#" class="text-content">FAQ</a>
                                 </li>
                             </ul>
                         </div>
@@ -2201,12 +2192,12 @@
                         <ul class="deal-offer-list">
                             <li class="list-1">
                                 <div class="deal-offer-contain">
-                                    <a href="shop-left-sidebar.html" class="deal-image">
+                                    <a href="#" class="deal-image">
                                         <img src="{{ asset('assets/images/vegetable/product/10.png')}}" class="blur-up lazyload"
                                             alt="">
                                     </a>
 
-                                    <a href="shop-left-sidebar.html" class="deal-contain">
+                                    <a href="#" class="deal-contain">
                                         <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                         <h6>$52.57 <del>57.62</del> <span>500 G</span></h6>
                                     </a>
@@ -2215,12 +2206,12 @@
 
                             <li class="list-2">
                                 <div class="deal-offer-contain">
-                                    <a href="shop-left-sidebar.html" class="deal-image">
+                                    <a href="#" class="deal-image">
                                         <img src="{{ asset('assets/images/vegetable/product/11.png')}}" class="blur-up lazyload"
                                             alt="">
                                     </a>
 
-                                    <a href="shop-left-sidebar.html" class="deal-contain">
+                                    <a href="#" class="deal-contain">
                                         <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                         <h6>$52.57 <del>57.62</del> <span>500 G</span></h6>
                                     </a>
@@ -2229,12 +2220,12 @@
 
                             <li class="list-3">
                                 <div class="deal-offer-contain">
-                                    <a href="shop-left-sidebar.html" class="deal-image">
+                                    <a href="#" class="deal-image">
                                         <img src="{{ asset('assets/images/vegetable/product/12.png')}}" class="blur-up lazyload"
                                             alt="">
                                     </a>
 
-                                    <a href="shop-left-sidebar.html" class="deal-contain">
+                                    <a href="#" class="deal-contain">
                                         <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                         <h6>$52.57 <del>57.62</del> <span>500 G</span></h6>
                                     </a>
@@ -2243,12 +2234,12 @@
 
                             <li class="list-1">
                                 <div class="deal-offer-contain">
-                                    <a href="shop-left-sidebar.html" class="deal-image">
+                                    <a href="#" class="deal-image">
                                         <img src="{{ asset('assets/images/vegetable/product/13.png')}}" class="blur-up lazyload"
                                             alt="">
                                     </a>
 
-                                    <a href="shop-left-sidebar.html" class="deal-contain">
+                                    <a href="#" class="deal-contain">
                                         <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                         <h6>$52.57 <del>57.62</del> <span>500 G</span></h6>
                                     </a>
