@@ -87,6 +87,7 @@ class ComposerStaticInitcb05ff59a4344cbd2e6d6373591f88fa
             'Spatie\\Ignition\\' => 16,
             'Spatie\\FlareClient\\' => 19,
             'Spatie\\Backtrace\\' => 17,
+            'Silber\\PageCache\\' => 17,
         ),
         'R' => 
         array (
@@ -328,6 +329,10 @@ class ComposerStaticInitcb05ff59a4344cbd2e6d6373591f88fa
         'Spatie\\Backtrace\\' => 
         array (
             0 => __DIR__ . '/..' . '/spatie/backtrace/src',
+        ),
+        'Silber\\PageCache\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/silber/page-cache/src',
         ),
         'Ramsey\\Uuid\\' => 
         array (
@@ -4777,6 +4782,10 @@ class ComposerStaticInitcb05ff59a4344cbd2e6d6373591f88fa
         'SebastianBergmann\\Type\\UnknownType' => __DIR__ . '/..' . '/sebastian/type/src/type/UnknownType.php',
         'SebastianBergmann\\Type\\VoidType' => __DIR__ . '/..' . '/sebastian/type/src/type/VoidType.php',
         'SebastianBergmann\\Version' => __DIR__ . '/..' . '/sebastian/version/src/Version.php',
+        'Silber\\PageCache\\Cache' => __DIR__ . '/..' . '/silber/page-cache/src/Cache.php',
+        'Silber\\PageCache\\Console\\ClearCache' => __DIR__ . '/..' . '/silber/page-cache/src/Console/ClearCache.php',
+        'Silber\\PageCache\\LaravelServiceProvider' => __DIR__ . '/..' . '/silber/page-cache/src/LaravelServiceProvider.php',
+        'Silber\\PageCache\\Middleware\\CacheResponse' => __DIR__ . '/..' . '/silber/page-cache/src/Middleware/CacheResponse.php',
         'Spatie\\Backtrace\\Backtrace' => __DIR__ . '/..' . '/spatie/backtrace/src/Backtrace.php',
         'Spatie\\Backtrace\\CodeSnippet' => __DIR__ . '/..' . '/spatie/backtrace/src/CodeSnippet.php',
         'Spatie\\Backtrace\\File' => __DIR__ . '/..' . '/spatie/backtrace/src/File.php',
