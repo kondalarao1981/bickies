@@ -10,6 +10,7 @@
     <meta name="keywords"
         content="admin template, Fastkart admin template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="pixelstrap">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" href="{{ asset('back-end/assets/images/favicon.png')}}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('back-end/assets/images/favicon.png')}}" type="image/x-icon">
     <title>Bickies - Dashboard</title>
@@ -507,14 +508,17 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     <div class="button-box">
                         <button type="button" class="btn btn--no" data-bs-dismiss="modal">No</button>
-                        <button type="button" class="btn  btn--yes btn-primary">Yes</button>
+                        <form action="{{ route('admin.logout') }}" method="POST">
+                            @csrf
+                            <button type="submit" class="btn  btn--yes btn-primary">Yes</button>
+                        </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- Modal End -->
-
+    
     <!-- latest js -->
     <script src="{{ asset('back-end/assets/js/jquery-3.6.0.min.js')}}"></script>
 
