@@ -53,6 +53,7 @@ class Kernel extends HttpKernel
      * @var array<string, class-string|string>
      */
     protected $routeMiddleware = [
+        'auth.admin.redirect' => \App\Http\Middleware\RedirectAdminIfNotAuthenticated::class,
         'page-cache' => \Silber\PageCache\Middleware\CacheResponse::class,
         'auth' => \App\Http\Middleware\Authenticate::class,
         'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
