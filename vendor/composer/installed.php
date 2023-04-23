@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-develop',
+        'version' => 'dev-develop',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '39a61b9ecf306920170bb1ac3a4e13e0df60f145',
+        'reference' => 'ea1e73ee49c1ab5da1a95404af84f9dc2c75220a',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -383,12 +383,12 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-develop',
+            'version' => 'dev-develop',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '39a61b9ecf306920170bb1ac3a4e13e0df60f145',
+            'reference' => 'ea1e73ee49c1ab5da1a95404af84f9dc2c75220a',
             'dev_requirement' => false,
         ),
         'laravel/pint' => array(
@@ -949,6 +949,15 @@
             'aliases' => array(),
             'reference' => 'c6c1022351a901512170118436c764e473f6de8c',
             'dev_requirement' => true,
+        ),
+        'silber/page-cache' => array(
+            'pretty_version' => 'v1.0.9',
+            'version' => '1.0.9.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../silber/page-cache',
+            'aliases' => array(),
+            'reference' => 'af9bdacc20a2036b617a4c4c6d9e7eda7e4c3a8e',
+            'dev_requirement' => false,
         ),
         'spatie/backtrace' => array(
             'pretty_version' => '1.4.0',
