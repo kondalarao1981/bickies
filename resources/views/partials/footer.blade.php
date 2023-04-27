@@ -1,8 +1,16 @@
-<?php
+<!-- footer start-->
+<div class="container-fluid">
+    <footer class="footer">
+        <div class="row">
+            <div class="col-md-12 footer-copyright text-center">
+                <p class="mb-0">Copyright <span id="currentYear"></span> &copy; Bickies</p>
+            </div>
+        </div>
+    </footer>
+</div>
+<!-- footer End-->
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+<script>
+  var currentYear = new Date().getFullYear();
+  document.getElementById('currentYear').innerHTML = currentYear;
+</script>
