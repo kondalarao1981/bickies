@@ -73,7 +73,6 @@
                                                        id="flexCheckDefault">
                                                 <label class="form-check-label" for="flexCheckDefault">Remember me</label>
                                             </div>
-                                            <a href="forgot.html" class="forgot-password">Forgot Password?</a>
                                         </div>
                                     </div>
 
