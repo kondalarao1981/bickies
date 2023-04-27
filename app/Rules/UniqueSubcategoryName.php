@@ -29,8 +29,8 @@ class UniqueSubcategoryName implements Rule
      */
     public function passes($attribute, $value)
     {      
-        $category = Category::findorfail($this->category);
-        $subcategory = $category->subcategories()->where('name', $value)->first();
+        $category       = Category::findorfail($this->category);
+        $subcategory    = $category->subcategories()->where('name', $value)->first();
         return !$subcategory;
     }
 
