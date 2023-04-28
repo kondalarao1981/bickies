@@ -22,7 +22,7 @@ Route::get('/', function () {
 })->middleware('page-cache');
 
 Route::middleware(['auth.admin.redirect'])->group(function () {
-    Route::get('/dashboard', [ProfileController::class, 'dashboard'])->name('dashboard');
+    Route::get('/dashboard', [ProfileController::class, 'index'])->name('dashboard');
     Route::resource('categories', CategoryController::class);
     Route::resource('subcategories', SubcategoryController::class);
 });
