@@ -151,8 +151,8 @@
                                         @foreach($categories as $category)                                        
                                         <div>
                                             <div class="dashboard-category">
-                                                <a href="javascript:void(0)" class="category-image">
-                                                    <img src="{{ asset('back-end/assets/images/categories/'. $category->image) }}" class="img-fluid" alt="{{ $category->name }}">
+                                                <a href="javascript:void(0)">
+                                                    <img src="{{ asset('back-end/assets/images/categories/'. $category->image) }}" class="img-fluid" alt="{{ $category->name }}" style="width: 100px;height: 100px;">
                                                 </a>
                                                 <a href="javascript:void(0)" style="text-align: center;">
                                                     <h6>{{ $category->name }}</h6>
