@@ -25,7 +25,7 @@
                     </li>
 
                     <li>
-                        <a href="add-new-product.html">Add New Products</a>
+                        <a href="{{route('products.create')}}">Add New Products</a>
                     </li>
                 </ul>
             </li>
@@ -37,7 +37,7 @@
                 </a>
                 <ul class="sidebar-submenu">
                     <li>
-                        <a href="#">Category List</a>
+                        <a href="{{route('categories.index')}}">Category List</a>
                     </li>
 
                     <li>

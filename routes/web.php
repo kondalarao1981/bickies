@@ -5,6 +5,7 @@ use App\Http\Controllers\Admin\AuthController;
 use App\Http\Controllers\Admin\ProfileController;
 use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\SubcategoryController;
+use App\Http\Controllers\Admin\ProductController;
 
 /*
   |--------------------------------------------------------------------------
@@ -23,8 +24,14 @@ Route::get('/', function () {
 
 Route::middleware(['auth.admin.redirect'])->group(function () {
     Route::get('/dashboard', [ProfileController::class, 'index'])->name('dashboard');
+    // Category Controller
     Route::resource('categories', CategoryController::class);
-    Route::resource('subcategories', SubcategoryController::class);
+    Route::resource('subcategories', SubcategoryController::class);     
+    Route::get('/get-subcategories/{category_id}', [ProductController::class, 'getSubcategories']);
+    // Product Controller
+    Route::get('/products', [ProductController::class, 'index'])->name('products.index');
+    Route::get('/products/create', [ProductController::class, 'create'])->name('products.create');
+    Route::post('/products', [ProductController::class, 'store'])->name('products.store');
 });
 
 Route::prefix('admin')->group(function () {

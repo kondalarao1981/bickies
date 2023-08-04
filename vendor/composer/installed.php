@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ea1e73ee49c1ab5da1a95404af84f9dc2c75220a',
+        'reference' => 'e1e753e2420c515d1429512aa12ec13764d6b691',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -367,6 +367,15 @@
                 0 => 'v9.52.4',
             ),
         ),
+        'intervention/image' => array(
+            'pretty_version' => '2.7.2',
+            'version' => '2.7.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../intervention/image',
+            'aliases' => array(),
+            'reference' => '04be355f8d6734c826045d02a1079ad658322dad',
+            'dev_requirement' => false,
+        ),
         'kodova/hamcrest-php' => array(
             'dev_requirement' => true,
             'replaced' => array(
@@ -388,7 +397,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ea1e73ee49c1ab5da1a95404af84f9dc2c75220a',
+            'reference' => 'e1e753e2420c515d1429512aa12ec13764d6b691',
             'dev_requirement' => false,
         ),
         'laravel/pint' => array(
@@ -1284,6 +1293,15 @@
             'install_path' => __DIR__ . '/../tijsverkoyen/css-to-inline-styles',
             'aliases' => array(),
             'reference' => 'c42125b83a4fa63b187fdf29f9c93cb7733da30c',
+            'dev_requirement' => false,
+        ),
+        'unisharp/laravel-filemanager' => array(
+            'pretty_version' => 'v2.6.0',
+            'version' => '2.6.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../unisharp/laravel-filemanager',
+            'aliases' => array(),
+            'reference' => 'c3c6ded95fd0cd6ec8a0f53af953a6273b9348c1',
             'dev_requirement' => false,
         ),
         'vlucas/phpdotenv' => array(
